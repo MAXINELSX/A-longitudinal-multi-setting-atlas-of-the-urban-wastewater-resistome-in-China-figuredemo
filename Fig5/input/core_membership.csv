@@ -1,0 +1,33 @@
+arg_subtype,Site.Hospital,Site.WWTP,Site.Community,Site.Wet.market
+aminoglycoside__ANT(4')-Ib,Hospital,WWTP,Community,Wet market
+aminoglycoside__ANT(6)-Ib,Hospital,WWTP,Community,Wet market
+aminoglycoside__amrB,Hospital,WWTP,Community,Wet market
+beta_lactam__GES-13,Hospital,WWTP,Community,Wet market
+beta_lactam__GPC-1,Hospital,WWTP,Community,Wet market
+beta_lactam__NPS-1,Hospital,WWTP,Community,Wet market
+beta_lactam__TEM-1,Hospital,WWTP,Community,Wet market
+macrolide-lincosamide-streptogramin__erm(G),Hospital,WWTP,Community,Wet market
+macrolide-lincosamide-streptogramin__lsa(E),Hospital,WWTP,Community,Wet market
+macrolide-lincosamide-streptogramin__mef(B),Hospital,WWTP,Community,Wet market
+multidrug__MexF,Hospital,WWTP,Community,Wet market
+multidrug__MuxB,Hospital,WWTP,Community,Wet market
+multidrug__OpmB,Hospital,WWTP,Community,Wet market
+multidrug__mdtE,Hospital,WWTP,Community,Wet market
+multidrug__oprA,Hospital,WWTP,Community,Wet market
+mupirocin__Bifidobacteria intrinsic ileS conferring resistance to mupirocin,Hospital,WWTP,Community,Wet market
+quinolone__QnrD1,Hospital,WWTP,Community,Wet market
+quinolone__QnrVC1,Hospital,WWTP,Community,Wet market
+quinolone__qepA,Hospital,WWTP,Community,Wet market
+tetracycline__tet(39),Hospital,WWTP,Community,Wet market
+trimethoprim__dfrA12,Hospital,WWTP,Community,Wet market
+trimethoprim__dfrA15,Hospital,WWTP,Community,Wet market
+beta_lactam__OXA-14,Hospital,WWTP,Community,NA
+beta_lactam__OXA-56,Hospital,WWTP,Community,NA
+quinolone__QnrD2,NA,WWTP,Community,Wet market
+quinolone__QnrVC4,Hospital,WWTP,Community,NA
+quinolone__QnrVC5,Hospital,WWTP,Community,NA
+beta_lactam__MOX-3,Hospital,WWTP,NA,NA
+beta_lactam__CTX-M-14,NA,NA,Community,NA
+beta_lactam__KPC-2,Hospital,NA,NA,NA
+beta_lactam__PER-5,Hospital,NA,NA,NA
+tetracycline__tet(U),Hospital,NA,NA,NA
