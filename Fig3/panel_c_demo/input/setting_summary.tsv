@@ -1,0 +1,5 @@
+Setting	N_samples	Mean	Median	Q1	Q3	Minimum	Maximum	SD
+Hospital	3	0.4	0.4	0.35	0.45	0.3	0.5	0.1
+WWTP	3	0.4	0.4	0.3	0.5	0.2	0.6	0.2
+Community	3	0.4	0.4	0.35	0.45	0.3	0.5	0.1
+Wet market	3	0.4	0.4	0.3	0.5	0.2	0.6	0.2
