@@ -89,7 +89,7 @@ Compare numeric results rather than PDF/PNG byte hashes, which can change with g
 - Fig3c uses simulated contig counts and fractions, with setting summaries calculated from the same simulated rows. Fig4e uses a small simulated count system with matching context/coverage totals and a separately identifiable classified subset. These examples do not use the manuscript's full totals.
 - Fig3a/b/e start with processed tables. They do not reconstruct absent raw measurements, complete registries or upstream workflows. Fig3d retains the documented input row ambiguities and uses synthetic site/date metadata. See its README for handling.
 - Fig2 retains its documented optimizer retry after a numerical failure; the model formula and supplied values are unchanged. Singular fits and warnings remain in diagnostics.
-- Fig6 fits only the included a/e examples with reduced predictors and a small permutation budget. Model completion does not validate subset estimates or establish that every random effect is supported.
+- Fig6 fits only the included a/e examples with reduced predictors and a small permutation budget. Because they all the same.
 
 Private source filenames, location/sample identities, source paths and reverse mappings are excluded. This removes identifiers but does not guarantee that retained numerical subsets could never be linked to other records. Original user files and earlier packages are unchanged.
 
