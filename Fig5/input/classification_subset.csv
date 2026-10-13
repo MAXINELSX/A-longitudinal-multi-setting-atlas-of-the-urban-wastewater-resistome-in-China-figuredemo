@@ -1,9 +1,0 @@
-arg_type,arg_subtype,core_flag,risk_level,host_breadth,mobility_ratio,Site.Hospital,Site.WWTP,Site.Community,Site.Wet.market
-beta_lactam,beta_lactam__TEM-1,TRUE,Level I,7,0.9963553530751709,Hospital,WWTP,Community,Wet market
-quinolone,quinolone__QnrVC4,TRUE,Level I,5,0.9878831076265147,Hospital,WWTP,Community,NA
-trimethoprim,trimethoprim__dfrA12,TRUE,Level I,5,0.9698438341410878,Hospital,WWTP,Community,Wet market
-quinolone,quinolone__QnrD2,TRUE,Level I,5,0.9637096774193549,NA,WWTP,Community,Wet market
-beta_lactam,beta_lactam__KPC-2,TRUE,Level I,3,0.9621513944223108,Hospital,NA,NA,NA
-aminoglycoside,aminoglycoside__ANT(4')-Ib,TRUE,Level I,3,0.9604415823367065,Hospital,WWTP,Community,Wet market
-quinolone,quinolone__QnrVC1,TRUE,Level I,6,0.9549050632911392,Hospital,WWTP,Community,Wet market
-quinolone,quinolone__QnrD1,TRUE,Level I,4,0.9547945205479452,Hospital,WWTP,Community,Wet market
