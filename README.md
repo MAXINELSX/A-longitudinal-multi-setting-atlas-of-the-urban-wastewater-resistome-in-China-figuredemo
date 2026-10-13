@@ -97,4 +97,4 @@ Private source filenames, location/sample identities, source paths and reverse m
 
 To use other data, follow each module's schema and supply genuine metadata for real analysis. Some assertions intentionally target the bundled example dimensions and must be updated deliberately. Do not use the synthetic groups or simulated counts as manuscript data.
 
-No new software or data licence has been assigned. Authors must confirm redistribution permission and select a licence before public release. Clean-install testing and review by an unfamiliar colleague remain separate tasks. This package has not been pushed to GitHub.
+The custom source code in this repository is distributed under the MIT License (see [LICENSE](LICENSE)). Third-party software and dependencies retain their respective licenses. Included data and reference outputs remain subject to their applicable rights and terms.
