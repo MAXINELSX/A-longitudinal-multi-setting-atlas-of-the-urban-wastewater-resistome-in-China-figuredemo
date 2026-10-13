@@ -1,0 +1,5 @@
+Pair_ID	Clinical_ID	MAG_ID	setting	ANI_min	callable_fraction_pair	fixed_snp_per_mbp_pair	clinical_ARG_count	mag_ARG_count	shared_ARG_count	direct_remap_supported_bool	instrain_partial_support_bool	shared_carbapenemase_present_bool
+Pair01	Clinical01	MAG01	Community	99.6987	0.5314382566078127	22.903913151180273	11	8	8	True	True	False
+Pair02	Clinical02	MAG02	Community	99.5089	0.8237739060281446	127.07604669745322	28	11	9	True	True	False
+Pair03	Clinical03	MAG03	Hospital	99.4822	0.8613229689826616	164.52127023443416	26	10	9	True	True	False
+Pair04	Clinical04	MAG04	Wet market	99.4938	0.8069241446504305	562.5572306296885	37	8	8	True	True	False
