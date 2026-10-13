@@ -8,6 +8,8 @@ All methodological explanations, data provenance and interpretation notes are ke
 
 Source repository: [manuscript code](https://github.com/MAXINELSX/A-longitudinal-multi-setting-atlas-of-the-urban-wastewater-resistome-in-China).
 
+
+
 ## Coverage
 
 | Module | Included branches |
@@ -40,6 +42,9 @@ install.packages("performance")
 `performance` is optional for Fig6 diagnostics. Exact tested package versions are recorded in `reference_output/package_versions.csv`. These installation commands do not freeze dependency versions. A clean-install duration has not been measured; most packages were already present on the test computer. Python 3.12 is optional for the independent Fig2 validator; the main runner requires only R.
 
 If using a separate R library, set `R_LIBS_USER` before starting R. `DEMO_R_LIB` can point to an additional installed library.
+
+## Estimated installation time
+Approximately 30–60 minutes on a desktop computer with a stable internet connection, using precompiled R packages where available. This is a planning estimate; clean-install time has not been benchmarked.
 
 ## Run
 
@@ -82,6 +87,9 @@ Rscript --vanilla Fig4/test_demo.R
 ```
 
 Compare numeric results rather than PDF/PNG byte hashes, which can change with graphics metadata and fonts. `PACKAGE_SHA256.csv` records the exact distributed files. Serialized R workspaces/models are excluded from the distributed reference.
+
+## Expected demo runtime
+Approximately 3–5 minutes on a comparable desktop computer with the dependencies already installed. The six figure modules recorded a combined elapsed time of 169.23 seconds (approximately 2.8 minutes) under R 4.6.0 on Windows 11 x64 (build 26200). This excludes installation and separately invoked validation tests.
 
 ## Data and calculations
 
